@@ -22,8 +22,8 @@
 *	[Figma](https://www.figma.com/file/bekrxpcynVxZkDQQPqe1AC/Untitled?node-id=0%3A1&t=yazoRJCk2nWvnVm9-1)
   
 ## Документация
-*	[Техническое задание]([https://github.com/ErronMeesh/TP-4.1-1/blob/main/documentation/Tekhnicheskoe_zadanie.pdf](https://github.com/Err0nMeesh/SkyLinkAir/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
-*	[проект разработки системы для бронирования авиабилетов]([https://github.com/ErronMeesh/TP-4.1-1/blob/main/documentation/Kursovoy_proekt.pdf](https://github.com/Err0nMeesh/SkyLinkAir/blob/main/documentation/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B1%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BE%D0%B2.pdf))
+*	[Техническое задание](https://github.com/Err0nMeesh/SkyLinkAir/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+*	[Проект разработки системы для бронирования авиабилетов]( https://github.com/Err0nMeesh/SkyLinkAir/blob/main/documentation/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B1%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BE%D0%B2.pdf)
 
 ## Видео
 * [Обзор клиентской части приложения](https://drive.google.com/drive/folders/1jZyPDKNeObwtjBFFNHRWF2BoGR_oy4_F)
